@@ -1,0 +1,17 @@
+{
+	"max_pages": 1,
+	"news": [
+		{
+			"Title": "Rodina Helper`s VK",
+			"Description": "ќфициальна€ группа ¬контакте.",
+			"Image": "image_2.jpg",
+			"Url": "https://vk.com/rodina_helpers"
+		},
+		{
+			"Title": "",
+			"Description": "",
+			"Image": "",
+			"Url": ""
+		}
+	]
+}
